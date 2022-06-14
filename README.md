@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![初意's github stats](https://github-readme-stats.vercel.app/api?username=baoxuebin)](https://github.com/anuraghazra/github-readme-stats)
+[![初意's github stats](https://github-readme-stats.vercel.app/api?username=baoxuebin)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![初意's github stats](https://github-readme-stats.vercel.app/api?username=baoxuebin&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 你可以通过邮件 <a href="mailto:baoxbin@hotmail.com">baoxbin@hotmail.com</a> 和以下社区找到我：
 
