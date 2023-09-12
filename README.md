@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#Java开发 #Golang小白 #React16遗民
+[![My Skills](https://skillicons.dev/icons?i=java,golang,nodejs,react,redis,mysql,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,nodejs,react,redis,mysql,linux&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 
 [![初意's github stats](https://github-readme-stats.vercel.app/api?username=baoxuebin)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![初意's github stats](https://github-readme-stats.vercel.app/api?username=baoxuebin&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
