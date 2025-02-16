@@ -15,5 +15,5 @@
 
 如果提供的内容对你有帮助，欢迎赞助支持，非常感谢。[赞助链接](https://xdbin.com/sponsor)
 
-龙年快乐!
-Happy Loong Year!
+蛇年快乐!
+Happy New Year!
